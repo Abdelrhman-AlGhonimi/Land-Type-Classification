@@ -95,3 +95,12 @@ Requirements:
 - PyTorch: https://pytorch.org/
 
 
+## 👤 Author
+
+- Abdelrhman Al Ghonimi
+- Email : abdelrhmanalghonimi@gmail.com 
+- GitHub : https://github.com/Abdelrhman-AlGhonimi
+- LinkedIn : https://www.linkedin.com/in/abdelrhman-al-ghonimi-2005902a6/
+- portfolio : https://ghonimi.vercel.app/
+
+
