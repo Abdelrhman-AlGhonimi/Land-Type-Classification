@@ -95,12 +95,32 @@ Requirements:
 - PyTorch: https://pytorch.org/
 
 
-## 👤 Author
+## 15. Authors Information
+Abdelrhman Al Ghonimi
+Email: abdelrhmanalghonimi@gmail.com
+GitHub: https://github.com/Abdelrhman-AlGhonimi
+LinkedIn: https://www.linkedin.com/in/abdelrhman-al-ghonimi-2005902a6/
+Portfolio: https://ghonimi.vercel.app/
 
-- Abdelrhman Al Ghonimi
-- Email : abdelrhmanalghonimi@gmail.com 
-- GitHub : https://github.com/Abdelrhman-AlGhonimi
-- LinkedIn : https://www.linkedin.com/in/abdelrhman-al-ghonimi-2005902a6/
-- portfolio : https://ghonimi.vercel.app/
+Samah Ashraf Saad Elmenady
+Email: samahelmenady@gmail.com
+GitHub: https://github.com/samahelmenady
+LinkedIn: https://www.linkedin.com/in/samah-elmenady-9937182a2/
+Portfolio: https://samahelmenady-portfolio.vercel.app/
 
+Ziad Ahmed Sobhy Omran
+Email: ziadomran814@gmail.com
+GitHub: https://github.com/ZIAD-OMRAN
+LinkedIn: https://www.linkedin.com/in/ziad-omran5
+Portfolio: https://ziad-omran.github.io/ziadomran_portfolio/
 
+Mohamed Osama Abdelaleem Elsheikh
+Email: xmoosamax@gmail.com
+GitHub: https://github.com/m7mddosamaa
+LinkedIn: https://www.linkedin.com/in/muhammadelsheikhh/
+
+Yasmin Mohsen Abdelghafour Hammad
+Email: yacmmeen@gmail.com
+GitHub: https://github.com/engyasmeen464574574558
+LinkedIn: https://www.linkedin.com/in/engyasminmohsen1315
+Portfolio: https://engyasmeen464574574558.github.io/PROTOFOLIO/
