@@ -1,0 +1,175 @@
+{
+  "desert": [
+    {
+      "use": "Solar Farm",
+      "explanation": "Deserts receive abundant sunlight, making them ideal for large-scale solar energy generation."
+    },
+    {
+      "use": "Military Base",
+      "explanation": "Desert terrain provides strategic isolation and training grounds for military operations."
+    },
+    {
+      "use": "Airport Runway",
+      "explanation": "Flat desert terrain is suitable for airport infrastructure with minimal environmental impact."
+    },
+    {
+      "use": "Research Station",
+      "explanation": "Desert environments are ideal for climate and astronomical research facilities."
+    },
+    {
+      "use": "Wind Energy Project",
+      "explanation": "Desert regions often have consistent wind patterns suitable for wind power generation."
+    }
+  ],
+  "water": [
+    {
+      "use": "Fishing Operations",
+      "explanation": "Water bodies support commercial and recreational fishing activities."
+    },
+    {
+      "use": "Water Management Station",
+      "explanation": "Strategic location for water quality monitoring and resource management."
+    },
+    {
+      "use": "Marine Research",
+      "explanation": "Ideal for aquatic ecosystem studies and marine biodiversity research."
+    },
+    {
+      "use": "Recreational Water Sports",
+      "explanation": "Suitable for boating, swimming, and water-based tourism activities."
+    },
+    {
+      "use": "Aquaculture Facility",
+      "explanation": "Water bodies can support sustainable fish farming and aquaculture operations."
+    }
+  ],
+  "forest": [
+    {
+      "use": "Eco-Tourism",
+      "explanation": "Forests provide natural habitats for wildlife viewing and nature-based tourism."
+    },
+    {
+      "use": "Wildlife Protection Area",
+      "explanation": "Critical for biodiversity conservation and habitat preservation."
+    },
+    {
+      "use": "Sustainable Logging",
+      "explanation": "Managed forestry operations can support sustainable timber production."
+    },
+    {
+      "use": "Carbon Sequestration Project",
+      "explanation": "Forests are essential for carbon capture and climate change mitigation."
+    },
+    {
+      "use": "Biodiversity Research Center",
+      "explanation": "Ideal location for studying forest ecosystems and species interactions."
+    }
+  ],
+  "urban": [
+    {
+      "use": "Commercial Development",
+      "explanation": "Urban areas are prime locations for shopping malls and retail centers."
+    },
+    {
+      "use": "Residential Complex",
+      "explanation": "High-density housing development to accommodate growing populations."
+    },
+    {
+      "use": "Public Infrastructure",
+      "explanation": "Suitable for schools, hospitals, and community facilities."
+    },
+    {
+      "use": "Transportation Hub",
+      "explanation": "Ideal for bus stations, metro lines, and intermodal transport facilities."
+    },
+    {
+      "use": "Mixed-Use Development",
+      "explanation": "Combines residential, commercial, and recreational spaces for sustainable urban living."
+    }
+  ],
+  "grassland": [
+    {
+      "use": "Agriculture",
+      "explanation": "Fertile grasslands support crop cultivation and livestock grazing."
+    },
+    {
+      "use": "Sports Facilities",
+      "explanation": "Flat terrain is perfect for football fields, golf courses, and athletic tracks."
+    },
+    {
+      "use": "Wind Farm",
+      "explanation": "Open grasslands provide consistent wind patterns for renewable energy generation."
+    },
+    {
+      "use": "Grazing Land",
+      "explanation": "Natural pastures support sustainable livestock farming operations."
+    },
+    {
+      "use": "Agricultural Research",
+      "explanation": "Ideal for field trials and agricultural innovation studies."
+    }
+  ],
+  "mountain": [
+    {
+      "use": "Ski Resort",
+      "explanation": "Mountainous terrain provides ideal conditions for winter sports and tourism."
+    },
+    {
+      "use": "Hydropower Plant",
+      "explanation": "Elevation differences enable efficient hydroelectric power generation."
+    },
+    {
+      "use": "Mining Operations",
+      "explanation": "Mountains often contain valuable mineral deposits for extraction."
+    },
+    {
+      "use": "Telecommunications Tower",
+      "explanation": "High elevation provides optimal signal coverage for communication networks."
+    },
+    {
+      "use": "Mountain Tourism",
+      "explanation": "Scenic views and hiking trails attract adventure and nature tourism."
+    }
+  ],
+  "agricultural": [
+    {
+      "use": "Crop Production",
+      "explanation": "Farmland is optimized for growing cereals, vegetables, and cash crops."
+    },
+    {
+      "use": "Agro-Tourism",
+      "explanation": "Educational farm visits and agricultural experience programs."
+    },
+    {
+      "use": "Greenhouse Complex",
+      "explanation": "Controlled environment agriculture for year-round production."
+    },
+    {
+      "use": "Agricultural Research Station",
+      "explanation": "Field testing and development of improved crop varieties."
+    },
+    {
+      "use": "Organic Farming",
+      "explanation": "Sustainable agricultural practices for organic food production."
+    }
+  ],
+  "default": [
+    {
+      "use": "General Development",
+      "explanation": "Area suitable for various development projects based on local planning regulations."
+    },
+    {
+      "use": "Environmental Assessment",
+      "explanation": "Conduct detailed environmental impact studies before development."
+    },
+    {
+      "use": "Infrastructure Planning",
+      "explanation": "Evaluate connectivity and utility access for potential projects."
+    },
+    {
+      "use": "Site Survey",
+      "explanation": "Perform comprehensive geological and topographical surveys."
+    }
+  ]
+}
+

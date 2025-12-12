@@ -7,9 +7,22 @@ scikit-learn
 matplotlib
 seaborn
 tqdm
+pandas
 
 # Model
 efficientnet-pytorch
 
+# Video Processing
+opencv-python>=4.5.0
+
+# API Requests
+requests>=2.28.0
+
 # App
-streamlit
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.0.0
+
+# Excel Export
+openpyxl>=3.0.0
